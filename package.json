@@ -1,5 +1,5 @@
 {
-  "name": "auditrelease",
+  "name": "Angular2-BoilerPlate",
   "version": "0.1.0",
   "scripts": {
     "build:dev": "webpack -d --config config/webpack.dev.js --progress --colors",
